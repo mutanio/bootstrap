@@ -3328,25 +3328,25 @@ fieldset[disabled] .btn-warning.focus {
 }
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #FF470D;
   border-color: transparent;
 }
 .btn-danger:focus,
 .btn-danger.focus {
   color: #fff;
-  background-color: #c9302c;
+  background-color: #d93400;
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-danger:hover {
   color: #fff;
-  background-color: #c9302c;
+  background-color: #d93400;
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-danger:active,
 .btn-danger.active,
 .open > .dropdown-toggle.btn-danger {
   color: #fff;
-  background-color: #c9302c;
+  background-color: #d93400;
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-danger:active:hover,
@@ -3359,7 +3359,7 @@ fieldset[disabled] .btn-warning.focus {
 .btn-danger.active.focus,
 .open > .dropdown-toggle.btn-danger.focus {
   color: #fff;
-  background-color: #ac2925;
+  background-color: #b52b00;
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-danger:active,
@@ -3376,11 +3376,11 @@ fieldset[disabled] .btn-danger:focus,
 .btn-danger.disabled.focus,
 .btn-danger[disabled].focus,
 fieldset[disabled] .btn-danger.focus {
-  background-color: #d9534f;
+  background-color: #FF470D;
   border-color: transparent;
 }
 .btn-danger .badge {
-  color: #d9534f;
+  color: #FF470D;
   background-color: #fff;
 }
 .btn-link {
@@ -4879,11 +4879,11 @@ a.label:focus {
   background-color: #ec971f;
 }
 .label-danger {
-  background-color: #d9534f;
+  background-color: #FF470D;
 }
 .label-danger[href]:hover,
 .label-danger[href]:focus {
-  background-color: #c9302c;
+  background-color: #d93400;
 }
 .badge {
   display: inline-block;
@@ -5149,7 +5149,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-danger {
-  background-color: #d9534f;
+  background-color: #FF470D;
 }
 .progress-striped .progress-bar-danger {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
